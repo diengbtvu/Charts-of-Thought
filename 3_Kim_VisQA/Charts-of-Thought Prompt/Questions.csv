@@ -1,0 +1,630 @@
+id,vis,question,correct
+1,kong_27,which country's economy will get most worse over next 12 months?,Greece
+2,kong_27,Which country has the shortest orange bar?,China
+3,kong_27,Which country has the least total percentage of responses?,Russia
+4,kong_27,how many countries in Asia will have their economy improved based on majority votes?,1
+5,kong_27,how many countries' economy will worsen based on the majority people's opinions?,2
+6,kong_27,what is the blue value of China?,83
+7,kong_27,how many countries' economy will improve based on the majority people's opinions?,5
+8,kong_27,Which countries have more than 50% of responses believing that the economy will improve?,Brazil|China|Tunisia|U.S.|Mexico
+9,kong_27,Which country has the highest red bar?,Greece
+10,kong_27,"What is the average percentage of responses for ""remaining the same"" for japan, China, and the U.S.?",28
+11,kong_30,"Which country has the highest percentage of ""Most succeed if work hard""?",Pakistan
+12,kong_30,"Which country has the lowest percentage for ""Most succeed if work hard""?",Lebanon
+13,kong_30,"Is the percentage of ""Most succeed if work hard"" higher in Italy than Greece?",No
+14,kong_30,"On average, what percentage of people world wide feel like hard work has no guarantee on success?",40.142857
+15,kong_30,What percentage of Japanese people believe that there is no guarantee of success from hard work?,59
+16,kong_30,Is China more or less optimistic about hard work leading to success than the US?,Less
+17,kong_30,Which country has the most positive outlook on hard work?,Pakistan
+18,kong_30,How much more or less does Russia believe that most will succeed with hard work than Brazil?,34
+19,kong_30,What is the value of blue bar in France?,54
+20,kong_30,What is the difference between the largest orange percentage to that of the U.S.A.?,4
+21,kong_30,How much more or less is the largest blue percentage compared to the largest orange percentage across all nations?,17
+22,kong_30,Which country has the largest percentage of respondents who believe that most will succeed if they work hard?,Pakistan
+23,kong_30,What is the value of orange bar in Mexico?,65
+24,kong_30,What is value of orange bar in Brazil?,69
+25,kong_30,What is the percentage of Poland for hard work no guarantee?,43
+26,kong_30,What is the value of most succeeding if working hard in U.S?,77
+27,kong_30,Which country's has the lowest summed value from the two responses?,China
+28,kong_3,"Which religious is more common to have religious extremism, Catholics or Orthodox christian?",Catholics
+29,kong_3,"Which religion had the highest percentage of responses that say ""Not too/not at all common""?",Hindus|Orthodox Christian
+30,kong_3,What is the average percentage of religious extremism shown in the chart?,18.83333
+31,kong_3,"What is the average percentage of all responses that say ""Very/somewhat common""?",18.83333
+32,kong_3,Which religious has the most percentage of religious extremism?,Muslims
+33,kong_3,Which religious has less than 10 percent of religious extremism?,Catholics|Mormons|Orthodox Christians|Buddhists|Hindus
+34,kong_3,"What is the average percentage of responses that say ""Very/somewhat common"" for Jews, Muslims, and Catholics?",27.33333
+35,kong_3,Which religious has the least proportion of religious extremism?,Hindus|Orthodox Christian
+36,kong_3,Which religion shown has the highest percentage in how common religious extremism is?,Muslims
+37,kong_3,How common is religious extremism for Catholics shown in the chart?,8
+38,kong_3,What percentage of Jews would religious extremism be not too common?,83
+39,kong_3,Which religious has more than 40 percent of religious extremism?,Muslims
+40,kong_3,"Which religions had more than 20% of responses say ""Very/somewhat common""?",Other non-Christian|Protestants|Pagan/earth-based|Muslims
+41,kong_3,Which religion(s) in the chart have the smallest percentage in how common religious extremism is?,Hindus|Orthodox Christians
+42,kong_3,"Which religion had the lowest percentage of responses say ""Very/somewhat common""?",Hindus|Orthodox Christian
+43,kong_15,What is the total population density of Rwanda?,0.5
+44,kong_15,What is the total population density of Hong Kong?,6.4
+45,kong_15,Which country or principality has the smallest difference between urban population density and overall population density?,Monaco
+46,kong_15,What is the total population density difference between South Korea and Japan?,0
+47,kong_15,What is the difference pf persons per square kilometer between the Bangladesh urban areas and the country as a whole?,74.2
+48,kong_15,"Of the countries and regions listed, which has the lowest number of persons per square kilometer of urban areas?",Australia
+49,kong_15,What is the urban populaton density in Macau?,26
+50,kong_15,Which country or principality has the highest total population density?,Macau
+51,kong_15,How much more urban population density is India vs. Indonesia?,8.6
+52,kong_15,What is the average persons per square kilometer of urban regions of South Korea and Japan combined?,7.85
+53,kong_17,What organization has a value that's more than 1 but less than 2?,Marist (NBC/Marist)
+54,kong_17,Whats the difference between the maximum and minimum values?,5.7
+55,kong_17,What organization has the least effect?,CNN (Opinion Research)
+56,kong_17,How much higher is the value of SurveyUSA than the value of YouGov?,1.6
+57,kong_17,What is the difference between the value of Gallup and Quinnipiac?,0.8
+58,kong_17,Is Washington Post / ABC News  Republican or Democratic?,Republican
+59,kong_17,What position is Ipsos in?,3
+60,kong_17,What is the exact value of the bar for Gallup?,-2.5
+61,kong_17,What organization has the lowest value?,Gallup
+62,kong_17,What is the exact value of the bar for Rasmussen Reports?,-1.3
+63,kong_18,What was the percentage of risk taken by people under 35 in 2001?,30.06
+64,kong_18,What is the year with the lowest risk taken for people under 35,2007
+65,kong_18,Which is the least risk averse group?,65+
+66,kong_18,What is the percentage of risk taken by people aged between 50 and 64 for the year 2012?,19.07
+67,kong_18,In which year investors of all age groups took bigger risks?,2001
+68,kong_18,What is the percentage of risk taken by people of ages between 35 and 49 in 2007?,26.02
+69,kong_18,What is the highest percentage of risk ever taken by all groups in all years?,30.06
+70,kong_18,What is the year with the highest risk taken by people over 65?,2001
+71,kong_18,In which year did Under 35 age group take their lowest risk?,2007
+72,kong_18,Which age group of stock investors consistently took lower risks?,65+
+73,kong_5,how much more growth is there in Muslims than Protestants?,4
+74,kong_5,Which group saw the highest growth?,Muslims
+75,kong_5,Which had the highest percentage of staying the same?,Hindu
+76,kong_5,What is the percentage of blue Buddhists?,12
+77,kong_5,What is the percentage of orange Hindus?,8
+78,kong_5,What is the summed value of the red and orange bar for Buddhists?,75
+79,kong_5,What is the difference between the growth in Jews compared to the growth in Paganism?,15
+80,kong_5,what is the percentage of orange Jews?,8
+81,kong_5,What does the orange bar represent?,Shrinking
+82,kong_5,Which group has the highest total percentages?,Muslims|Protestants|Catholics
+83,kong_5,which group has the least growth?,Hindus
+84,kong_5,Which group has the highest percentage of staying the same?,Catholics
+85,kong_5,What is the percentage of red Protestants?,42
+86,kong_5,What is the percentage of blue protestants?,47
+87,kong_50,Which country has the highest Post UK rebate budget?,Germany
+88,kong_50,What is the post UK rebate budget for Poland?,4.223
+89,kong_50,"What was the gross contributions to the EU budget in 2012 by the Sweden, pre UK rebate?",3.695
+90,kong_50,Budget of Slovenia Pre UK rebate,0.616
+91,kong_50,Difference between Pre UK rebate and Post UK rebate,3.871
+92,kong_50,Italy Pre UK rebate budget,15.748
+93,kong_50,"Who gave the lowest gross contributions to the EU budget in 2012, post UK rebate?",Malta
+94,kong_50,Which country has the lowest rebate budget overall?,Malta
+95,kong_50,Which country has the highest difference between pre rebate and post rebate budget?,UK
+96,kong_50,"What was the gross contributions to the EU budget in 2012 by the Sweden, post UK rebate?",3.695
+97,kong_50,"Who gave the highest gross contributions to the EU budget in 2012, pre UK rebate?",Germany
+98,kong_50,Difference between the France budget of Pre and Post UK rebate,1.143
+99,kong_50,Post UK rebate budget of Estonia,0.176
+100,kong_50,"Who gave the highest gross contributions to the EU budget in 2012, post UK rebate?",Germany
+101,kong_50,What is France's post UK rebate budget?,20.938
+102,kong_53,Which group has the second highest percentage of employer pensions?,African American
+103,kong_53,What race has the second most employer pensions percentage wise?,African American
+104,kong_53,What is the difference between the group with the largest percentage and the lowest percentage of employer pensions?,21
+105,kong_53,Which group has the lowest percentage of employer pensions?,Latino
+106,kong_53,Which group has the largest percentage of employer pensions?,White
+107,kong_53,What is the difference between the largest and smallest groups?,21
+108,kong_53,What percent of african americans have employer pensions?,31
+109,kong_53,What is the difference between white and latino employer pension percentage?,21
+110,kong_53,What percentage of white people have an employer pension?,44
+111,kong_53,What race has the least amount of employer pensions?,Latino
+112,kong_54,what color is used for the bars on the chart?,Blue
+113,kong_54,How much more percentage do White's average above Latino's?,30
+114,kong_54,Which race has the highest income from investments?,White
+115,kong_54,what is the percent for white,57
+116,kong_54,what is the highest percent shown on the chart,57
+117,kong_54,What two races are most similar in investment income?,Latino|African American
+118,kong_54,what is the percent for Latino?,27
+119,kong_54,What percent of African American income is from investments?,25
+120,kong_54,How much more percentage do Latino's average above African Americans?,2
+121,kong_54,What is the percent for Africa American?,25
+122,kong_54,what is the income from investments for Latino,27
+123,kong_54,Which group has the highest income from investments?,White
+124,kong_54,Which race has the largest percentage?,White
+125,kong_54,Which race has neither the highest or lowest percentage?,Latino
+126,kong_54,Which group has the lowest income from investments?,African American
+127,kong_54,Which race has the second largest amount of income from investments.,Latino
+128,kong_54,What data is on the X-axis?,percent
+129,kong_55,What's the difference between the White and the Latino marriage rate?,9
+130,kong_55,What is the sum of marriage rates among the three given races?,143
+131,kong_55,Is the value Latino marriage rate minus African American m.r. bigger than 10?,No
+132,kong_55,How many marriages are there in White couples more than in African American?,19
+133,kong_55,"If you add the marriage rates of whites and Latinos, what percentage is derived?",105
+134,kong_55,What's the average marriage rate across all the three races?,47.66667
+135,kong_55,What is the different in marriage rate between white and African Americans?,19
+136,kong_55,Which race shown for marriage rate of the given variables is the smallest?,African American
+137,kong_55,What's the White rate of marriages minus the Latino?,9
+138,kong_55,What is the marriage rate of Latinos?,48
+139,kong_65,Which reason has the greatest difference the US and the country of origin?,Opportunity to get ahead
+140,kong_65,Which statement has equal values for it being better in the US and it being about the same?,None
+141,kong_65,Which characteristic is considered best experienced in the U.S.?,Opportunity to get ahead
+142,kong_65,"Which reason for offering a better life in the US is stronger, moral values of society or freedom to practice religion?",Freedom to practice religion
+143,kong_65,Which reason had the greatest influence for Asians having a better life in the US?,Opportunity to get ahead
+144,kong_65,what is the red value for treatment of the poor,21
+145,kong_65,Which characteristic gets the most votes for being about the same as country of origin / U.S.?,Freedom to practice religion
+146,kong_65,Which characteristic is considered best experienced in country of origin?,Strength of family ties
+147,kong_65,what is the value of the blue scale for the strength of family ties,56
+148,kong_65,which of the statements have the shortest on the blue scale,Freedom to express political views
+149,kong_65,what is the blue value for moral values of society,28
+150,kong_65,Which reason that the US offers a better life has the least influence for Asians?,Strength of family ties
+151,kong_65,which of the statements have the longest on the blue scale,Strength of family ties
+152,kong_68,Which administration had the lowest average temperature?,Cameron
+153,kong_68,What's the difference in sunshine percentage between Blair and Brown?,1.37
+154,kong_68,The Brown administration has what % of temperature?,-3.95
+155,kong_68,What is the highest % category in the Thatcher administration?,Rainfall
+156,kong_68,The Blair administration has what % of rainfall?,8.8
+157,kong_68,Which administration had the lowest percentage of rainfall?,Major
+158,kong_68,What percentage of sunshine did Blair get?,3.14
+159,kong_68,Which administration has a -1.29% of sunshine?,Cameron
+160,kong_68,Which administration had the highest rainfall?,Thatcher
+161,kong_68,What is the sunshine % in the Major administration?,2.55
+162,kong_69,What is the value of rank 1,-1.8
+163,kong_69,Which income rank has  a change in income of -1?,3
+164,kong_69,What is the difference between income rank 1 and 5?,1.4
+165,kong_69,What is the change in income of rank 2?,-1.5
+166,kong_69,What is the value of rank 2,-1.5
+167,kong_69,What is the sum of the income changes for all ranks that had a positive change?,0.4
+168,kong_69,What is the different between change of income between ranks 1 and 2?,0.3
+169,kong_69,What is the value of rank 10,-2.1
+170,kong_69,What is the 3rd bigest change in income.,-1.5
+171,kong_69,What is the change from income rank 1 to 10,-0.3
+172,kong_69,What is the value of rank 3,-1
+173,kong_69,What is the value of the largest change in income?,-2.1
+174,kong_69,What is the value of rank 4,-0.9
+175,kong_69,What is  highestt  change in income?,-2.1
+176,kong_70,What is the percentage of people that neither agree or disagree based on the chart?,69
+177,kong_70,How many more agree than disagree,29
+178,kong_70,What do the three percentages on the three bars add up to?,204
+179,kong_70,What is on the y-axis?,agree
+180,kong_70,How many are neutral,69
+181,kong_70,What is shown on the x-axis?,percentage
+182,kong_70,What is the total percentage of all answers.,204
+183,kong_70,What is the value for Strongly Disagree,53
+184,kong_70,How many strongly dissagree,53
+185,kong_70,How many strongly agree,82
+186,kong_70,What percentage of people strongly disagree with the prompt of people who feel they belong are happier?,53
+187,kong_70,"How much larger (in percentage points) is the ""Strongly agree"" bar than the ""Neither agree or disagree bar?""",13
+188,kong_70,"Which category of agreement has the highest percentage of ""agrees?""",Strongly agree
+189,kong_70,What does the y-axis measure?,agree
+190,kong_70,"What is the total value of the three bars (Strongly agree, Neither agree or disagree, Strongly disagree)?",204
+191,kong_70,What is the exact amount for Strongly agree,82
+192,kong_70,What is the difference between Strongly Agree and Strongly Disagree,29
+193,kong_70,What is the exact amount for Neither Agree or Disagree,69
+194,kong_70,What percentage of people strongly agree more than strongly disagree based on the question of who feel they belong are happier?,29
+195,kong_71,Did a higher percentage of women in age group 65-69 or age group 80 and over feel belonging?,80 and over
+196,kong_71,Did more women or men overall feel welcome?,Women
+197,kong_71,Did more men in their 60's or 70's feel like they belonged in their neighborhoods?,70's
+198,kong_71,What is the highest value of the All bar?,84.23
+199,kong_71,What is the lowest percentage of women that feel they belong in the neighborhood?,67.89
+200,kong_71,Which age group had the smallest overall percentage of the feeling of belonging?,All aged 16 and over
+201,kong_71,What percentage of men age 50-54 feel they belong in their neighborhood?,67.89
+202,kong_71,Did more overall people feel welcoming in age groups 16 and over or 60-64?,60-64
+203,kong_71,What is the value of the blue bar in the 60-64 age group?,75.43
+204,kong_73,Which age group has the highest percentage of male and female refugees?,18-59
+205,kong_73,Does the youngest age group have the smallest population size?,No
+206,kong_73,How many age groups have a greater than ten percent population size?,1
+207,kong_73,Does the 60+ age group have a percentage higher than ten for it's female or male population size?,No
+208,kong_73,Which age groups on the graph have an unequal gender split?,18-59|60+
+209,kong_73,What percentage of Syrian refugees are 12-17?,14
+210,kong_73,What percentage of Syrian refugees are 0-4?,18
+211,kong_73,Are there more male or female syrian refugees between the ages of 18-59?,Female
+212,kong_73,Are there more Syrian refugees 60 and older or below 5?,0-4
+213,kong_73,Which age groups have unequal amount of Syrian refugees between male and female?,18-59|60+
+214,kong_74,Which country has provided more donations; Norway or Ireland?,Norway
+215,kong_74,Does the European Commission donated more or less than the 50% of the donations made by the US?,less
+216,kong_74,How much more donations does the US have in comparison to the European Commission?,36996078
+217,kong_74,How much has the US donated to Syrian refugees?,67030000
+218,kong_74,How much more donations has the European Commission donated to Syrian refugees in comparison to Japan?,4033922
+219,kong_74,How much  is the total of the donations of US and China together?,68030000
+220,kong_74,How much donations have Japan given to Syrian refugees?,26000000
+221,kong_74,How much has the Netherlands donated to Syrian refugees?,7033231
+222,kong_74,Who made more donations: Belgium or Ireland?,same
+223,kong_74,Which country has provided the fewest donations?,China
+224,kong_74,How many donation have done Japan and China together?,27000000
+225,kong_74,How many donations has the European Commission provided?,30033922
+226,kong_74,Which country has provided the most donations?,US
+227,kong_74,How many donations has Japan provided?,26000000
+228,kong_74,What percentage of the total donations has been made by the European Commission?,20.6622
+229,kong_75,Which country is most generous by GDP?,Norway|Kuwait
+230,kong_75,Which country is 3rd most generous by GDP?,Netherlands
+231,kong_75,How much Does the Netherlands give out in GDP?,0.0008
+232,kong_75,"If Ireland is 0.0006 and Finland is 0.0005, what is Belgium?",0.0003
+233,kong_75,"How much more Donations in GDP form,  does Ireland give out over have over Germany?",0.0005
+234,kong_75,What are the donations by GDP for America?,0.0004
+235,kong_75,How much longer is Norway than the US?,0.0007
+236,kong_75,Who has the lowest total of GDP donations thus fair?,China
+237,kong_75,What is the sum of Estonia + Japan + Kuwait?,0.0021
+238,kong_75,How much of a different in donations has Norway have over China?,0.00109
+239,kong_75,Which country is least generous by GPD?,China
+240,kong_75,What is the generous donations for GDP (blue line total) for the Netherlands?,0.0008
+241,kong_75,How much longer is the blue line for Japan than for Germany?,0.0003
+242,kong_75,What is the Generous donation in the US by its GDP?,0.0004
+243,kong_75,How much more generous is Japan than the USA?,0
+244,kong_76,Which country gets the most money?,Jordan
+245,kong_76,How much does Jordan get?,40
+246,kong_76,Which countries get less than Turkey?,Iraq|Egypt
+247,kong_76,Which country gets the most,Jordan
+248,kong_76,Which country gets the least money?,Egypt
+249,kong_77,what is the percentage of the japanese public?,15
+250,kong_77,what is on the x-axis?,percentage
+251,kong_77,What is percentage for Chinese Americans.,57
+252,kong_77,what is the percentage of the chinese public?,39
+253,kong_77,what is on the y-axis?,population
+254,kong_77,What is percentage for Japanese Americans.,33
+255,kong_77,What is percentage for Indian Americans.,55
+256,kong_77,What is percentage for Chinese public.,39
+257,kong_77,what is the percentage of indian americans?,55
+258,kong_77,What is percentage for Indian public.,30
+259,line_color,when apple price starts to be larger than IBM?	,2006
+260,line_color,when the difference between google and apple was the highest?,2007
+261,line_color,what is the largest value of the red line?,707
+262,line_color,what is the highest difference between red and blue line between 2006 and 2010,517.05
+263,bar_aggregate,Which age has the highest population number?,35
+264,bar_aggregate,Which age is closest to 20 million in population?,45
+265,bar_aggregate,How large is the population for the youngest age?,19046094
+266,bar_aggregate,Is there more newborns or 5 year olds?,0
+267,bar_aggregate,What age has the large population?,35
+268,bar_aggregate,What number if years is used as increments along the y axis?,5
+269,bar_aggregate,How much younger is the largest population compared to the smallest?,55
+270,bar_aggregate,What age has the lowest population?,90
+271,bar_aggregate,What is the population of 90 year olds?,1400884
+272,bar_grouped,what is  the overall population at the age 60?,10792360
+273,bar_grouped,How large of the population is males in their 30s?,21681061
+274,bar_grouped,what is the male population at the age 20?,9731315
+275,bar_grouped,What age had the most males?,35
+276,bar_grouped,How many females are under 10?,19380278
+277,bar_grouped,What is the population of males in the 90 year bracket?,336303
+278,bar_grouped,which year was highest population in both male and female?,35
+279,bar_grouped,what is the highest female populations age?,35
+280,bar_grouped,How large is the population of females in their 20s?,18842751
+281,bar_grouped,What age had the lowest population of females?,90
+282,bar_grouped,How many males are over 85?,1306660
+283,bar_grouped,What was the population of Females age 35?,11635647
+284,bar_grouped,What age had the lowest population of males?,90
+285,bar_grouped,What age and gender had the highest population?,35|Female
+286,line,what is the highest price?,707
+287,line,"what was the price as at Jan 1, 2009?",338.53
+288,line,What was the lowest stock price of Google from 2005-2010?,180.51
+289,line,The stock price was lowest at what date,"Aug 1, 2004"
+290,line,What was the highest stock price of Google from 2005-2010?,707
+291,line,What year was the price highest?,2007
+292,stacked_bar_h,Duluth produced how much Peatland?,63.36667
+293,stacked_bar_h,What is the value of the orange Bar in Wisconsin No 38?,60.93333
+294,stacked_bar_h,How much Trebi was grown at Waseca?,113.0666
+295,stacked_bar_h,What is the cummulative total of No 475?,381.13333
+296,stacked_bar_h,Which crop had the highest yield at Waseca?,Wisconsin No. 38
+297,stacked_bar_h,Which variety has the largest sum of yield?,Trebi
+298,stacked_bar_h,"In all sites, what's the difference between No. 475 and Velvet?",15.59998
+299,stacked_bar_h,What is the Value of Morris is Trabi?,90.4
+300,stacked_bar_h,what is the value of blue in manchuria?,72.9
+301,stacked_bar_h,Which variety yielded the most overall?,Trebi
+302,stacked_bar_h,Which site produces the smallest yield across all the various varieties?,Grand Rapids
+303,stacked_bar_h,What does the red field represent?,Grand Rapids
+304,stacked_bar_h,What does the yellow bar represent?,Waseca
+305,stacked_bar_h,Which varieties of barley are most abundant throughout all sites?,Trebi
+306,stacked_bar_h,"Out of University or Grand Rapids, which did better with no 457?",University Farm
+307,stacked_bar_h,what is the value of yellow on velvet?,87.63333
+308,stacked_bar_h,What does the X axis represent?,Sum of yield
+309,stacked_bar_h,Manchuria yielded the least at what location?,Duluth
+310,stacked_bar_h,How much more glabron was produced at Waseca when compared to University Farm?,13.06667
+311,stacked_bar_h,How much Gabron was produced in all sites?,400.09999
+312,stacked_bar_h,what is the value of orange in trebi?,64.53333
+313,stacked_bar_h,What single crop had the highest yield across the chart?,Trebi
+314,stacked_bar_h,What percentage of the yield in No 475 came from Grand Rapids,9.165646
+315,stacked_bar_h,What's the red value for Giabron?,43.56666
+316,stacked_bar_h,"On average, which site produces the smallest yields across all varieties?",Grand Rapids
+317,stacked_bar_h,Which bar has the largest value?,Trebi
+318,stacked_bar_h,What does the yellow bar represent?,Waseca
+319,stacked_bar_h,Which site had the highest yield of Trebi?,Waseca
+320,stacked_bar_h,Which variety produces the greatest yield across all sites?,Trebi
+321,stacked_bar_h,What does the Y axis represent?,variety
+322,stacked_bar_h,How much Glabron was grown in Grand Rapids?,43.56666
+323,stacked_bar_h,How much is Peatland in total,410.16667
+324,stacked_bar_h,Which site had the lowest production of the Glabron variety?,Grand Rapids
+325,stacked_bar_h,Which site provides the greatest yield of Wisconsin No. 38?,Waseca
+326,stacked_bar_h,What variety of barley has the highest yield in Crookston?,Trebi
+327,stacked_bar_h,What is the value of University Farm in Peatland?,60.83334
+328,stacked_bar_h,What farm yielded the most barley?,Waseca
+329,stacked_bar_h,Which site has the lowest overall yield of barley?,Grand Rapids
+330,stacked_bar_h,Which variety of barley has the highest production in Crookston?,Trebi
+331,stacked_bar_h,What is the value of the red bar in No 462?,44.83334
+332,stacked_bar_h,What does the Y axis represent?,variety
+333,stacked_bar_h,What farm yielded the least amount of barley?,Grand Rapids
+334,stacked_bar_h,How much higher was the yield of Manchuria between Morris and Grand Rapids?,6.7
+335,stacked_bar_h,Which has the highest red bar?,Peatland
+336,stacked_bar_h,which site does blue represent?,Crookston
+337,stacked_bar_h,Which site had the highest yeld of No. 462?,Waseca
+338,stacked_bar_h,What does the x axis represent?,Sum of yield
+339,stacked_bar_h,What site does green represent?,University Farm
+340,stacked_bar_h,What does the green bar represent?,University Farm
+341,stacked_bar_h,Where is Duluth the biggest value?,Trebi
+342,stacked_bar_h,Which bar has the smallest value?,Svansota
+343,stacked_bar_h,What represents green color,University Farm
+344,stacked_bar_h,What variety had the highest yield in Duluth?,Trebi
+345,stacked_bar_h,"On average, which site produces the greatest yield across all varieties?",Waseca
+346,stacked_bar_h,What is the yellow value for Wisconsin No. 38?,116.96667
+347,stacked_bar_h,what is the volue for yellow Wisconsin,116.96667
+348,stacked_bar_h,How much was the yield of Trebi when the two highest producers have their yields combined?,203.4666
+349,stacked_bar_weather,What month has the most sun?,August
+350,stacked_bar_weather,How many days of fog were recorded in October?,55
+351,stacked_bar_weather,What is the first month with no snow?,May
+352,stacked_bar_weather,What months have all 5 weather types?,January|February|March|April|December
+353,stacked_bar_weather,What is the rainiest recorded month?,February
+354,stacked_bar_weather,What month has the least fog?,July
+355,stacked_bar_weather,What month has the least recorded weather?,February
+356,stacked_bar_weather,What month has the highest sun weather type?,August
+357,stacked_bar_weather,how many recorded days does January have of snow?,8
+358,stacked_bar_weather,What month has more rain than sun?,January|February
+359,d3_12,What is the last year presented in the chart?,2009
+360,d3_12,Which year has the largest GDP difference between Russia and India?,2008
+361,d3_12,Which country has the largest GDP per capita increase between year 2000 and 2005?,Russia
+362,d3_12,How many times do Brazil and Russia flip in terms of GDP ranking?,2
+363,d3_12,What is the highest GDP per capita recorded from 1990 to 2010,11700.22112
+364,d3_12,Are all the lines monotone?,No
+365,d3_12,Which countries have GPD per capita higher than 8000 in the year 2009?,Brazil|Russia
+366,d3_12,Which country has the highest GDP per capita in year 2005,Russia
+367,d3_12,Which country has the highest GDP per capita on the year of 1995?,Brazil
+368,d3_12,Which country (out of the 4 presented) had the largest GDP in 2005?,Russia
+369,d3_12,Which country has the biggest decrease in GDP per capita between 2007 and 2009?,Russia
+370,d3_12,Which country has the highest GDP per capita sum from 2000 to 2005?,Brazil
+371,d3_4,What is the total population of CA?,36756666
+372,d3_4,How many children under 5 are there in PA?,737462
+373,d3_4,Which area has more older population (over 44 year)?,CA
+374,d3_4,Which state has least population?,PA
+375,d3_4,Which state had the highest population of 25 to 44 year olds?,CA
+376,d3_4,"Which state has more people 65 years or older, CA or TX?",CA
+377,d3_4,Which categoty has the lowest population in FL?,14 to 17 Years
+378,d3_4,How many children under 5 years old were present in Fl?,1140516
+379,d3_4,Are Florida's 25 to 44 and 45 to 64 populations equal?,No
+380,d3_4,How many more children under 5 years old did CA have compared to NY?,1496164
+381,d3_4,Which state has the highest population of 25 to 44 year olds?,CA
+382,d3_4,Which state has the lowest population of 65 years or older?,IL
+383,d3_4,Does every state listed share a common age range as its most dominant population?,No
+384,d3_4,How many people are in California's 25-44 population?,10604510
+385,d3_4,How large is Texas's under 5 population?,2027307
+386,d3_4,"Are there more people in California's 65 and above, plus 5 to 13 populations than in the 45-64 range?",No
+387,d3_1,How many years are represented on this chart?,20
+388,d3_1,In 2009 how many more pending cases was there than in 1999?,100.748
+389,d3_1,What is highest number of pending cases out of all the years listed?,533.909
+390,d3_1,What is the difference in amount of pending cases between 2006 and 2007?,6.108
+391,d3_1,How many pending cases was there in the year 2010?,262.799
+392,d3_1,Which years had over 400 pending cases?,2014|2015|2016|2017
+393,d3_1,How many more pending cases were in Us immigration courts in 2017 versus 2001,384.571	
+394,d3_1,What is the difference between the highest and lowest amount of pending cases?,410.848
+395,d3_1,How many pending cases where there in 2006?,168.827
+396,d3_1,What does the horizontal axis represent?,year
+397,d3_1,Did the amount of pending cases trend up or down over the last 20 years?,Up
+398,d3_1,How many more pending case in US immigration courts were there in 2010 vs 2009,38.99
+399,d3_1,How many pending cases were in 2000?,125.734
+400,d3_1,how many pending cases was there from 2010 to 2017?,3143.817	
+401,d3_1,How many more cases was there in 2017 than in 2010?,271.11
+402,d3_1,What year between 1998 and 2017 had the most pending cases in US immigration courts?,2017
+403,d3_1,What year had the lowest amount of pending cases?,1999
+404,d3_1,In which year was the most pending cases in US immigration courts?,2017
+405,d3_1,What was the difference in pending cases in US immigration courts from 2012 and 2016?,	190.987	
+406,d3_10,what is the highest revenue Infocomm has received according to this chart?,189.4
+407,d3_10,what is the lowest revenue Infocomm Industry has received from 2002 until 2015 on this chart?,32.17
+408,d3_10,In what year did revenue amount to 113.29?,2012
+409,d3_10,What year has the highest reported revenue?,2015
+410,d3_10,What was Infocomm Industries revenue in the year 2014?,167.05
+411,d3_10,What was the Infocomm industry revenue for the year of 2007?,64.2
+412,d3_10,What is the difference in revenue at Infocomm Industry from 2002 and 2010?,50.67
+413,d3_10,What was Infocomm Industries revenue in the year 2009?,80.7
+414,d3_11,What was the drop in difference between 2008 and 2009?,1085.28
+415,d3_11,What was research and development expenditure in 2008,7128.11
+416,d3_11,When was the first time that R&D expenditures reached 8000?,2014
+417,d3_11,What was the research and development expenditure for 1993?,997.93
+418,d3_11,How much was the percentage change in research and development from 1995 to 2000?,120.22597
+419,d3_11,How much more was research and development from 2006 to 2008?,2118.41
+420,d3_3,Is a smaller percentage represented by Social Science or LS Undergrad majors?,LS Undergrad
+421,d3_3,Which major has the lowest percentage of students who intended to major and ultimately earned a degree from the same college/division?,LS programs
+422,d3_3,What percentage of students intend to major in engineering than bio sciences?,32
+423,d3_3,Is a higher percentage represented by Chemistry or Bio Science majors?,Chemistry
+424,d3_3,What is the percentage difference between engineering and math phys sci majors?,29
+425,d3_3,Do Math Phys Sci or Env Design majors have a larger percentage in the graph?,Env Design
+426,d3_3,Which major has the highest percent of students who intended to major and ultimately earned a degree from the same college/division?,Business
+427,d3_3,Which major did 62% of students receive a degree?,Chemistry
+428,d3_3,Which major had the least amount of degrees awarded?,LS programs
+429,d3_3,Which majors have an equal percentage of students who graduated?,Art Humanities|Social Sciences
+430,d3_5,Which transportation has the lowest ridership?,LRT
+431,d3_5,Is the average daily ridership by bus greater than that by both MRT and taxi?,Yes
+432,d3_5,What is the difference between the taxi ridership and the LRT ridership?,774000
+433,d3_5,What is the approximate total number of daily Public Transportation users on average?,8168000
+434,d3_5,Which form of Public Transportation is used the most?,Bus
+435,d3_5,What is the approximate difference in average daily users between Taxi and Bus?,2985000
+436,d3_5,What is number for the bus ridership?,3939000
+437,d3_5,Which form of Public Transportation is used the third most?,Taxi
+438,d3_5,What the difference between bus ridership and the LRT ridership?,3759000
+439,d3_5,What is the approximate difference in average daily users between LRT and MRT?,2195000
+440,d3_5,What is the number of ridership for MRT?,3095000
+441,d3_6,Which platform has had about half the security vulnerabilities as php?,windows
+442,d3_6,How many software platforms have had one hundred or fewer security vulnerabilities?,3
+443,d3_6,Name the three platforms with the lowest number of security vulnerabilities?,bsd|aix|ios
+444,d3_6,What's the highest number value shown on the chart?,15233
+445,d3_6,Which platform has the most security vulnerabilities?,php
+446,d3_6,Which software platform has the highest value?,php
+447,d3_6,What is the lowest number value shown on the chart?,80
+448,d3_6,how many software platforms are listed on the chart?,15
+449,d3_6,Approximately how many security vulnerabilities have been found in php?,15233
+450,d3_7,What is the donation value for DEU?,4870750000
+451,d3_7,"How many countries have donated more than 5,000,000,000 but less than 10,000,000,000?",2
+452,d3_7,How much more aid has the USA given than Japan?,10994200000
+453,d3_7,"How many countries have donated more than 5,000,000,000?",3
+454,d3_7,Which Country has given the least aid?,PRT
+455,d3_7,What is the donation value of NLD?,1890450000
+456,d3_7,Which country is the second highest donor?,JPN
+457,d3_7,"How many countries have donated more than 15,000,000,000?",1
+458,d3_7,What is the highest total value?,18014480000
+459,d3_7,Which country has the highest donation value on the chart?,USA
+460,d3_7,Which country is the highest donor?,USA
+461,d3_7,What is the donation value of JPN,7020280000
+462,d3_7,Which country has the lowest donation value?,PRT
+463,d3_7,What is the difference donation value between USA and JPN?,10994200000
+464,d3_7,Which country has donated the most with the exception of the United States?,JPN
+465,d3_7,Which country has donated the most?,USA
+466,d3_8,How much is it the rating of Italy?,49
+467,d3_8,How much more does USA have than JPN?,11
+468,d3_8,Why country has the highest rating?,NLD
+469,d3_8,What rating does PRT have?,0
+470,d3_8,Which country has the best rating?,NLD
+471,d3_8,What's the difference between the rating of the France and the one of Japan?,14
+472,d3_8,Which country has the worst rating?,PRT
+473,d3_8,How much more does USA have than ITA?,4
+474,d3_8,What's the sum of the rating of USA and Canada (CAN)?,107
+475,d3_8,Which country has no rating?,PRT
+476,d3_9,What is the highest amount of donations received by a country?,5472120000
+477,d3_9,What is the difference between the highest amount of donations received by a country and the lowest amount received?,4650540000
+478,d3_9,How many countries are listed?,20
+479,d3_9,What is the difference in donations between the highest amount and the lowest amount received?,4650540000
+480,d3_9,How much did TZA receive in donations?,1655460000
+481,d3_9,Did IRQ receive less in donations that CHN?,No
+482,d3_9,"How many countries received less than 1,000,000,000 in donations?",5
+483,d3_9,Which country had the highest number in donations?,AFG
+484,d3_9,What is the smallest amount of donations received by a country?,821580000
+485,d3_9,"How many countries received more than 2,000,000,000 in donations?",6
+486,10_0,What is the name of the chart we are measuring?,Aviation accidents and incidents
+487,10_0,How many less deaths from 2001 to 2002?,2727
+488,10_0,How many years are we tracking deaths?,14
+489,10_0,How many aviation deaths were there in 2001?,4140
+490,10_0,What was the most number of deaths in a single year?,4140
+491,10_0,How many deaths were there in 2002 and 2003 combined?,2643
+492,10_0,How many more deaths from 2004 until 2005?,688
+493,10_0,Which year had the highest number of deaths?,2001
+494,10_0,2011 had how many more deaths than 2012?,34
+495,25_0,How many services had a total cost below 10 million pounds?,3
+496,25_0,What is the value for BBC Radio 3?,54.3
+497,25_0,What is the value for BBC Radio 1?,54.2
+498,25_0,what is the value for BBC Asian network?,13
+499,25_0,Which service had the lowest total cost?,BBC Radio 5 Live Sports Extra
+500,25_0,What is the value for BBC Radio 2?,62.1
+501,25_0,What is the value for BBC Radio 4?,122.1
+502,25_0,Which service cost 122.1 million pounds?,BBC Radio 4
+503,25_0,How many services were included along the x-axis?,16
+504,25_0,How many services had a total cost above 50 million?,6
+505,28_0,How many more Democratic Voters are there than Unaffiliated Voters?,1428
+506,28_0,What is the total number of voters?,75186
+507,28_0,How many voters are affiliated with Minor parties?,140
+508,28_0,How many Minor Party Voters are there?,140
+509,28_0,How many Democratic voters are there?,28608
+510,28_0,How many Democratic voters are there?,28608
+511,28_0,How many voters are affiliated with a party?,48006
+512,28_0,How many more Democratic voters are there than Republican voters?,9350
+513,28_0,How many more Unaffiliated Voters are there than Republican Voters?,7922
+514,28_0,How many voters are affiliated with a party?,48006
+515,28_0,How many more Unaffiliated voters are there than Republican voters?,7922
+516,28_0,How many voters identify as Unaffiliated?,27180
+517,28_0,How many more Democratic Voters are there than Republican Voters?,9350
+518,28_0,How many more Democratic voters are there than Minor party voters?,28468
+519,28_0,How many more Unaffiliated voters are there than Republican voters?,7922
+520,33_0,What is the difference between Gojo and the highland?,1839.95
+521,33_0,Which city has the largest area size?,"Gojo, Yoshino"
+522,33_0,"How much taller is the bar for Gojo, Yahino than the bar for Yamato highland?",1839.95
+523,33_0,What is the difference between the highland and the inland plain?,330.38
+524,33_0,How much larger is the area of the inland plain relative to the highland size?,330.38
+525,33_0,What is the value of the bar for Yamato flat inland plain?,837.27
+526,33_0,How much is the difference between Gojo and the inland plain?,1509.57
+527,33_0,What is the value of the shortest bar?,506.89
+528,33_1,What is on the Y axis?,Population
+529,33_1,"How much higher is the population of Gojo, Yoshino than Yamato highland?",36
+530,33_1,What is the population of Yamato flat inland plain?,1282
+531,33_1,What is the population of Yamato highland?,56
+532,33_1,Approximiately what is the difference in population between Gojo and Yamato?,36
+533,33_1,"What is the population of Gojo, Yoshino?",92
+534,33_1,What is the approximate population of Yamato Highland?,56
+535,33_1,Approximately what is the population of Gojo Yoshino?,100
+536,33_1,What does the X axis represent?,District
+537,33_1,What is the highest population in the chart?,1282
+538,11,Which region has the smallest population?,North-East Skane
+539,11,What is the total population of South Skane and West Skane?,989868
+540,11,What is the population of the Danish Capital Region?,1823109
+541,11,What is the difference in population between South Skane and Remainder?,75850
+542,11,Which area has the least population?,North-East Skane
+543,11,What is the population of the least populated region?,162829
+544,11,What is the population difference between the North East Skane and Remainder?,445207
+545,11,What is the difference in numbers between the most populated and least populated regions?,1660280
+546,11,Which region has the largest population?,Danish Capital Region
+547,11,What is the population of West Skane?,305982
+548,11,"How many regions have a population lower than 500,000?",2
+549,11,Which area has the most population?,Danish Capital Region
+550,11,What is the population of the Danish Capital Region?,1823109
+551,11,How much higher is the population of Remainder than North East Skane?,445207
+552,11,What is the population of South Skane?,683886
+553,46,what is the length of the perl bird category?,20
+554,46,Which bird is the shortest in length?,Feudinge (Rppersbach)
+555,46,By how much bigger is the Alna category compared to the Dautphe category?,10.3
+556,46,what is the length of the Dill bird category?,55
+557,46,By how much bigger is the AAR category compared to the Lumda category?,19.7
+558,46,How long in length is the Ohm?,59.7
+559,46,Which  bird is the longest in length?,Ohm
+560,46,what is the length of the weil bird,46.6
+561,46,How much shorter in length is the Dautphe than the Dill?,46.2
+562,46,What is the difference in length of the Ilse and the Gelbach(Aubach)?,31.3
+563,8_0,How many amphibians species have Belize and El Salvador together?,76
+564,8_0,"Who has more Amphibians species: Costs Rica, or Panama?",Costa Rica
+565,8_0,Which country has the highest amount of Amphibians?,Costa Rica
+566,8_0,"Which country has more Amphibians, Costa Rica or Panama?",Costa Rica
+567,8_0,Which country has the least amount of Amphibians?,El Salvador
+568,8_0,Which country has the second fewest amount of Amphibians?,Belize
+569,8_0,Does Costa Rica and Panama amphibians species account for more or less than the 50% of the total number of species?,less
+570,8_0,How many less amphibians species have Honduras than Guatemala?,32
+571,8_0,How many more Amphibians are located in Costa Rica versus El Salvador?,153
+572,8_0,"How many amphibians species have Belize, Honduras, and Nicaragua together?",208
+573,8_1,Which country has less than half as many bird species as Panama?,El Salvador
+574,8_1,"Who has the most bird species, Guatemala or Honduras?",Honduras
+575,8_1,Does Guatemala or Honduras have more bird species?,Honduras
+576,8_1,Which country has the least number of bird species?,El Salvador
+577,8_1,How many more bird species does Nicaragua have compared to El Salvador?,198
+578,8_1,Which country has the most bird species?,Panama
+579,8_1,About how many bird species are there in Panama?,904
+580,8_1,Which country has the least bird species?,El Salvador
+581,8_1,Which country has the most bird species?,Panama
+582,8_1,How many bird species are there in Honduras?,699
+583,48,What is the most passengers handled for any given airport?,828531
+584,48,What is on the x-axis?,Airport
+585,48,Who handled more passengers Bristol or Belfast City?,Bristol
+586,48,What is the lowest passengers handled for any given airport?,100003
+587,48,What is the number of passengers handled for Bristol?,239666
+588,48,How many passengers did Belfast City handle?,100003
+589,48,What airport handled the most passengers?,London Heathrow
+590,48,What is the average of passengers handled over all airports?,319063.7
+591,48,How many airports are shown?,10
+592,48,What is on the y-axis?,Passengers handled
+593,271_0,How many votes did Frank Dobson get?,14857
+594,271_0,What is the sum of both Adrian Oliver and Margot James' votes?,9280
+595,271_0,How much higher is Frank Dobson compared to Jill Fraser?,4787
+596,271_0,How many votes did Margot James receive?,6482
+597,271_0,How many more votes does Frank Dobson have in comparison to Adrian Oliver?,12059
+598,271_0,Who has the lowest number of votes?,Rainbow George Weiss
+599,271_0,Who is least likely to win?,Rainbow George Weiss
+600,271_0,How many more votes did Margot James receive compared to Rainbow George Weiss?,6330
+601,271_0,Who has roughly 5 votes?,Rainbow George Weiss
+602,271_0,How many votes did Jill Fraser receive?,10070
+603,271_1,How much more of a percentage does Margot James have over Rainbow George Weiss?,18.5
+604,271_1,What is Majority's percentage?,13.9
+605,271_1,what is Jill Fraser's percentage?,29.3
+606,271_1,Who has the lowest percent?,Rainbow George Weiss
+607,271_1,Who has the highest percent?,Frank Dobson
+608,271_1,What percentage is Majority?,13.9
+609,271_1,what is the difference in percentage of Adrian Oliver and Frank Dobson,35.1
+610,271_1,What percent does Jill Fraser have?,29.3
+611,271_1,How much more percentage does Frank Dobson have over Jill Fraser?,13.9
+612,271_1,Who has the most percentage points?,Frank Dobson
+613,59_0,Which two teams are tied for second place?,x-Houston Rockets|x-San Antonio Spurs.
+614,59_0,What team has the least amount of wins in the Central Divison?,Detroit Pistons
+615,59_0,What basketball team has the most wins in the Central Division?,y-Atlanta Hawks
+616,59_0,What team had the least wins?,Detroit Pistons
+617,59_0,What basketball teams have 41 wins in the Central Division?,x-Houston Rockets|x-San Antonio Spurs.
+618,59_0,What team had the most wins?,y-Atlanta Hawks
+619,59_0,How many teams are in the Central Division?,6
+620,59_0,What basketball teams have 37 wins in the Central Division?,Cleveland Cavaliers|Indiana Pacers
+621,59_1,What is the amount for Cleveland Cavaliers?,45
+622,59_1,What is the difference in points of the Indiana Pacers and x-Houston Rockets?,4
+623,59_1,How much more is the amount for the Detroit Pistons vs the Cleveland Cavaliers?,21
+624,59_1,What is the amount for Detroit Pistons?,66
+625,59_1,How many points did the Cleveland Cavaliers score?,45
+626,59_1,How many more points did the Detroit Pistons get over the Cleveland Cavaliers?,21
+627,59_1,Which basketball team has the least value on the graph?,y-Atlanta Hawks
+628,59_1,Which team scored the lowest points?,y-Atlanta Hawks
+629,59_1,What is the amount for San Antonio Spurs?,41
