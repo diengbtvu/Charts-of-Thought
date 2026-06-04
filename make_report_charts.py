@@ -70,7 +70,7 @@ def chart_accuracy(base_name, base, cand_name, cand, suptitle, out_path):
     cc, ct, cp = label_accuracy(cand)
 
     fig, ax = plt.subplots(figsize=(6, 5))
-    names = [f"{base_name}\n(ảnh-only)", f"{cand_name}\n(ảnh + detection)"]
+    names = [f"{base_name}\n(image-only)", f"{cand_name}\n(image + detection)"]
     vals = [bp, cp]
     colors = [C_OLD, C_NEW]
     bars = ax.bar(names, vals, color=colors, width=0.55, edgecolor="black", linewidth=0.6)
@@ -81,14 +81,14 @@ def chart_accuracy(base_name, base, cand_name, cand, suptitle, out_path):
                 ha="center", va="bottom", fontsize=11, fontweight="bold")
 
     delta = cp - bp
-    ax.annotate(f"Δ +{delta:.1f} điểm %" if delta >= 0 else f"Δ {delta:.1f} điểm %",
+    ax.annotate(f"Δ +{delta:.1f} pts" if delta >= 0 else f"Δ {delta:.1f} pts",
                 xy=(1, cp), xytext=(0.5, max(bp, cp) + 12),
                 ha="center", fontsize=12, fontweight="bold",
                 color=(C_BOTH_RIGHT if delta >= 0 else C_WRONG))
 
     ax.set_ylabel("Accuracy (%)")
     ax.set_ylim(0, max(100, max(vals) + 20))
-    ax.set_title("So sánh độ chính xác: CŨ vs MỚI", fontsize=13, fontweight="bold")
+    ax.set_title("Accuracy comparison: OLD vs NEW", fontsize=13, fontweight="bold")
     ax.grid(axis="y", linestyle="--", alpha=0.4)
     if suptitle:
         fig.suptitle(suptitle, fontsize=10, y=0.98, color="#555")
@@ -99,19 +99,21 @@ def chart_accuracy(base_name, base, cand_name, cand, suptitle, out_path):
 
 def chart_outcome_breakdown(cats, total, suptitle, out_path):
     order = [
-        ("Cả hai ĐÚNG", "both_right", C_BOTH_RIGHT),
-        ("CẢI THIỆN (MỚI đúng, CŨ sai)", "improve", C_IMPROVE),
-        ("THỤT LÙI (MỚI sai, CŨ đúng)", "regress", C_REGRESS),
-        ("Cả hai SAI", "both_wrong", C_BOTH_WRONG),
+        ("Both correct", "both_right", C_BOTH_RIGHT),
+        ("Improved (NEW right, OLD wrong)", "improve", C_IMPROVE),
+        ("Regressed (NEW wrong, OLD right)", "regress", C_REGRESS),
+        ("Both wrong", "both_wrong", C_BOTH_WRONG),
     ]
-    fig, ax = plt.subplots(figsize=(9, 2.6))
+    fig, ax = plt.subplots(figsize=(10, 3.6))
+    fig.subplots_adjust(top=0.78, bottom=0.40, left=0.04, right=0.98)
+    bar_h = 0.6
     left = 0
     for label, key, color in order:
         n = len(cats[key])
         if n == 0:
             left += n
             continue
-        ax.barh(0, n, left=left, color=color, edgecolor="white",
+        ax.barh(0, n, height=bar_h, left=left, color=color, edgecolor="white",
                 label=f"{label}: {n}")
         ax.text(left + n / 2, 0, str(n), ha="center", va="center",
                 fontsize=12, fontweight="bold",
@@ -119,16 +121,18 @@ def chart_outcome_breakdown(cats, total, suptitle, out_path):
         left += n
 
     ax.set_xlim(0, total)
+    ax.set_ylim(-0.5, 0.5)
     ax.set_yticks([])
-    ax.set_xlabel(f"Số câu (tổng {total})", labelpad=8)
-    ax.set_title("Phân rã kết quả theo câu", fontsize=13, fontweight="bold")
-    ax.legend(loc="upper center", bbox_to_anchor=(0.5, -0.6),
+    ax.set_xlabel(f"Number of questions (total {total})", labelpad=6)
+    ax.set_title("Per-question outcome breakdown", fontsize=13,
+                 fontweight="bold", pad=14)
+    ax.legend(loc="upper center", bbox_to_anchor=(0.5, -0.42),
               ncol=2, frameon=False, fontsize=10,
-              columnspacing=3.0, handletextpad=0.8)
+              columnspacing=2.5, handletextpad=0.8)
     if suptitle:
-        fig.suptitle(suptitle, fontsize=10, y=1.02, color="#555")
-    fig.tight_layout()
-    fig.savefig(out_path, dpi=150, bbox_inches="tight")
+        fig.text(0.5, 0.95, suptitle, ha="center", va="top",
+                 fontsize=10, color="#555")
+    fig.savefig(out_path, dpi=150)
     plt.close(fig)
 
 
@@ -151,11 +155,11 @@ def chart_per_question_grid(base_name, base, cand_name, cand, common, qmeta, out
     ax.set_xlim(0, n)
     ax.set_ylim(-0.6, 2)
     ax.set_yticks([1.5, 0.5])
-    ax.set_yticklabels([f"{base_name} (ảnh-only)", f"{cand_name} (ảnh+detect)"])
+    ax.set_yticklabels([f"{base_name} (image-only)", f"{cand_name} (image+detect)"])
     ax.set_xticks([])
-    ax.set_title("Đúng/Sai theo từng câu  (xanh = đúng, đỏ = sai)",
+    ax.set_title("Per-question correctness  (green = correct, red = wrong)",
                  fontsize=12, fontweight="bold")
-    ax.set_xlabel("Câu hỏi (id)", labelpad=18)
+    ax.set_xlabel("Question (id)", labelpad=18)
     for spine in ax.spines.values():
         spine.set_visible(False)
     fig.tight_layout()
@@ -169,7 +173,7 @@ def chart_net_change(cats, out_path):
     net = imp - reg
 
     fig, ax = plt.subplots(figsize=(6, 4.5))
-    bars = ax.bar(["Cải thiện", "Thụt lùi", "Thay đổi ròng"],
+    bars = ax.bar(["Improved", "Regressed", "Net change"],
                   [imp, -reg, net],
                   color=[C_IMPROVE, C_REGRESS,
                          C_BOTH_RIGHT if net >= 0 else C_WRONG],
@@ -182,8 +186,8 @@ def chart_net_change(cats, out_path):
                 fontsize=12, fontweight="bold")
 
     ax.axhline(0, color="black", linewidth=0.8)
-    ax.set_ylabel("Số câu")
-    ax.set_title("Tác động của detection (net change)", fontsize=13, fontweight="bold")
+    ax.set_ylabel("Number of questions")
+    ax.set_title("Impact of detection (net change)", fontsize=13, fontweight="bold")
     ax.grid(axis="y", linestyle="--", alpha=0.4)
     fig.tight_layout()
     fig.savefig(out_path, dpi=150)
